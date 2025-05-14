@@ -35,32 +35,15 @@ The dataset must be placed in the same folder as the script before running it.
   6.Evaluates the model using a classification report and confusion matrix
 
   7.Predicts the sentiment of new example reviews
-
-# 4. Running the Script
-
-To run the project, open a terminal or command prompt, navigate to the project folder, and run the Python script. The script will train the model and output performance results along with predictions for sample reviews.
-
-# 5. Example Output
-
-When the script runs, it prints results like these:
-
-**Review:** I loved the meal, everything was perfect!
-**Prediction: Positive**
-
-**Review:** Worst service and terrible food.
-**Prediction: Negative**
-
-**Review:** Tried for 1st time was very good and delicious.
-**Prediction: Positive**
-
-# 6. Output Visualization
+  
+# 4. Output Visualization
 **The script displays:**
 
   1.A classification report showing precision, recall, and F1-score
 
   2.A confusion matrix plot using Seaborn for better visual understanding
 
-# 7. Technologies Used
+# 5. Technologies Used
 **This project uses the following tools and libraries:**
 
   1.Python
@@ -73,5 +56,3 @@ When the script runs, it prints results like these:
 
   5.Matplotlib and Seaborn for plotting
 
-# Real-Life Applications
-**This project allows restaurants and businesses to manually analyze customer reviews, providing valuable insights into customer satisfaction and helping improve services. It also facilitates sentiment monitoring, enabling users to evaluate feedback and respond to both positive and negative sentiments.**
